@@ -1,0 +1,14 @@
+# GETTING STARTED
+
+- Click on start.bat
+- Go to http://127.0.0.1:1880
+- Login: demo
+- Password: loremipsum
+
+# NOTES
+
+Everything is already installed for Windows 32bit, 
+the `install.bat` will call `npm install` with local x86 NodeJS.
+
+# 32Bit voices can be configured
+%windir%\SysWOW64\speech\SpeechUX\sapi.cpl
